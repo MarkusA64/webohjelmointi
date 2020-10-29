@@ -1,3 +1,3 @@
 # webohjelmointi
-/*Checking that works.*/
+Checking that works.
 
